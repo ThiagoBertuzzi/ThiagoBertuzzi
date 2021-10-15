@@ -39,7 +39,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:thi.ago0809@hotmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thi.ago0809@hotmail.com">
+        <img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=outlok&logoColor=white&link=mailto:https://www.linkedin.com/in/thiago-bertuzzi-6b3783150/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/thiago-bertuzzi-6b3783150">
