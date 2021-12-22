@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-- 👨‍💻 Desenvolvedor Web Jr na **Urgtec**.
+- 👨‍💻 Desenvolvedor Full Stack Jr na **BRQ DIGITAL SOLUTIONS**.
 - 👨‍🎓 Estudando Angular 12.
-- 🎯 Interesse: PHP, JavaScript, HTML, CSS, React.js, WordPress, Bootstrap, Angular e Java.
+- 🎯 Interesse: PHP, JavaScript, HTML, CSS, React.js, WordPress, Bootstrap, Node, Angular e Java.
 - 🦊 Apaixonado por tecnologia e encantado pela praticidade que ela nos trouxe no decorrer dos últimos anos, é que me faz aprofundar nesta área, aderindo e compartilhando conhecimentos, de forma que eu possa contribuir com a evolução da tecnologia constantemente, a todo momento.
 
 ## Skills :nerd_face:
