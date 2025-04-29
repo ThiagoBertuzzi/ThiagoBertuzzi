@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 👨‍💻 Desenvolvedor Full Stack PL na **Montreal Informática.**.
-- 👨‍🎓 Estudando Angular 12.
+- 👨‍🎓 Estudando Angular 18 e PHP 8.3.
 - 🎯 Interesse: PHP, JavaScript, HTML, CSS, React.js, WordPress, Bootstrap, Node, Angular e Java.
 - 🦊 Apaixonado por tecnologia e encantado pela praticidade que ela nos trouxe no decorrer dos últimos anos, é que me faz aprofundar nesta área, aderindo e compartilhando conhecimentos, de forma que eu possa contribuir com a evolução da tecnologia constantemente, a todo momento.
 
